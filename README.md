@@ -1,2 +1,3 @@
-# Rust-Course
-Learn Rust Programming
+# Rust-Course 🦀
+Learn Rust Programming 
+More Advence Rust for Rustaceans
